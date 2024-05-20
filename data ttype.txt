@@ -1,0 +1,92 @@
+Create the variable
+java variable:
+=========
+{
+int eid = 101;
+data type-int
+identifier-eid
+literal-value
+}
+
+python variable:
+===========
+{
+eid=101
+eid-identifier
+101-value
+we are not required to specify the data type explicitly
+brand="peter england"
+based on value,python will assign the type automatically
+=======================================
+Data Types:
+========
+There are 14 data types
+1.<class,int>
+2.<class,float>
+3.<class,str>
+4.<class,bool>
+5.<class,complex>
+6.<class,range>
+7.list
+8.pull
+9.set
+10.dict
+11.bytes
+12.bytearray
+13.frozenset
+14.None 
+=====================
+python-inbuilt functions:
+==================
+input()  : read the data from console/terminal
+print()   :print some thing on console
+id()       :return address the variable
+type()   :return type of the variable
+len()     :return size of list
+int()     :converting one type to into type
+}
+============================
+Int data type:
+=========
+a = 100
+whole number (integeral value)
+1.Decimal form
+2.Binary form
+3.Octal form
+4.HexaDecimal form
+
+a = 3487
+b = 0b1111
+c = 0o43
+d = 0xABC
+
+#Decimal formate  - Base-10
+====================
+Default number system in python.allowed digits are 0 to 9
+
+#Binary Formate - Base-2
+==================
+Allowed digits are only 0 and 1
+literal value prefix with 0b or 0B
+
+#Octa formate     - Base-8
+==================
+Allowed digits are 0 to 7
+literal value prefix with 0o or 0O
+
+Example programme:
+===============
+a = 3487        #Decimal formate  - Base-10
+b = 0b1111    #Binary Formate - Base-2
+c = 0o43        #Octa formate     - Base-8
+d = 0xABC    #Hexa Formate    - Base-16
+
+print(a)          #3487
+print(b)         #15
+print(c)         #35
+print(d)        #2748
+
+#HexaDecimal Formate    - Base-16
+===================
+0 to 9 and a-f or  A-F
+literal value prefix with 0x 0r 0X

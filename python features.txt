@@ -1,0 +1,81 @@
+python features:
+===========
+Python is high level programming language
+a)Simple and easy to learn
+     *very less key word(35)
+     *python is simple programming language like a english statement
+b)Free and opensource software
+     *we can use python software without any licence.
+      *python source code is open,we can cusdomize based on required
+c)High level programming language
+      *python interpretor
+d)Python-Functional and object oriented 
+      def add(a,b):
+            print(a+b)
+     add(10,20)
+     add(10,20)
+     add(10,20)
+e)Python is -plateform indepent and portable
+
+f)Dynamic type programming
+     *we are not required to declare type for variable.
+              ename="Rahul"
+              eid=101
+              
+              ename=101
+Java
+{
+Strictly typed and static type programming language
+Java is based on Compiler typed programming language
+[int eid=10;
+string ename="Rahul";
+double esalary=45000;
+boolean avail=true;]
+}
+Javascript
+{
+Loosely Typed
+Javascript is based on Interpretetor typed programming language
+It is used to declare the variable using ("var")
+[var eid=101;
+var name="Rahul";
+var esalary=45000
+var avail=true;]
+}
+
+Python
+{
+Dynamic Typed Programming Language
+Python is based on Interpretetor typed programming language 
+[eid=101
+ename="Rahul"
+esalary=45000
+avail=True
+eid="Rahul Gandhi"]
+}
+
+g)Extensive library.
+python
+{
+pypi.org
+[python packages
+-Richest inbuilt libraries/packages]
+}
+Javascript
+{
+npmjs.com
+[Javascript packages]
+}
+Java
+{
+mvnrepo.com
+[java packages]
+}
+i)Pytho is extensible and embded
+    We can use other programs in python
+     We can use python program in other programming.
+with help of python flavors:
+cpython
+jpython
+pypi
+rubypython

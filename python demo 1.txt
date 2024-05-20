@@ -1,0 +1,71 @@
+                                                                                                                         PYTHON
+python=python is a general purpose programming language
+born in 1989 created by VAN ROSSAM GUIDO in netherlands @National Research Insitute
+General availability in 1991 feb 20th anniversary
+That time the version is python 1-Functional programming, oops(c++),script PL is perl
+python 2
+current version python 3
+
+Script Programming Language
+{
+JAVASCRIPT
+PERL
+VB
+TS
+PYTHON
+
+How to write code in python
+console.log("GM")
+}
+
+Functional Programming Language
+{
+C
+PYTHON
+How to write python code
+def wish():
+     print("GE")
+wish()
+
+How to write C code
+#include<studio.h>
+void main(){
+ print("GN")
+}
+
+}
+
+Object Oriented Programming Language
+{
+JAVA
+.NET
+C++
+PYTHON
+
+How to write a code in java
+class test{
+public static void main(string[]args)
+{
+system.out.println("GA");
+}
+}
+
+What is the use of python?
+1.Web Application
+2.Desktop Application
+3.Database Application
+4.Data analytics
+5.Data Engineering
+6.Data Science
+7.Machine Learning
+8.Artificial Inteligent(AI)
+9.Networking Application
+10.ETL::: Ectract and tr
+11.Devops
+12.Finops
+
+How to write a python programme?
+variable
+function
+class
+object
