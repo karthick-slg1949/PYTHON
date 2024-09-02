@@ -51,20 +51,22 @@ users=[
 {'eid':50,'ename':'Dee dee','email':'dcooke1d@nationalgeographic.com','gender':'Female'}
 ]
 
-#print all user
-print(type(users))
 no_of_male_users=0
 no_of_female_users=0
 no_of_non_binary=0
-for user in users:
-    if user['gender']=='Male':
+
+i=0
+while i<=len(users)-1:
+    if users[i]['gender']=='Male':
         no_of_male_users=no_of_male_users + 1
-    elif user['gender']=='Female':
+    elif users[i]['gender']=='Female':
         no_of_female_users=no_of_female_users + 1
     else:
         no_of_non_binary=no_of_non_binary + 1
 
+    i=i+1
 
-print("Male Users is:",no_of_male_users)
-print("Female users is:",no_of_female_users)
-print("Non Binary users is:",no_of_non_binary)
+
+print("Male Users is :",no_of_male_users)
+print("female users is :",no_of_female_users)
+print("non binary users is:",no_of_non_binary)
