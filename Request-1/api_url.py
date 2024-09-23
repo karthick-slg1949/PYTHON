@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-api_url='https://jsonplaceholder.typicode.com/users1'
+api_url='https://jsonplaceholder.typicode.com/users'
 users_data=None
 user=None
 
