@@ -10,7 +10,6 @@ try:
            esal float,
            eloc varchar(32)
            )
-
     '''
     mycursor.execute(sql_sql)
     dbcon.commit()
